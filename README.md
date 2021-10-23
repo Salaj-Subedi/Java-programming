@@ -1,4 +1,4 @@
-# Java-programming
+# Java-programming to store/alter/display/remove numerous Meta Data
 codes on programs created using JAVA
 
 files here are my Assignments while I was studying BSc Computing from London Metropolitian University
